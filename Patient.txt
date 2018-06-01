@@ -1,2 +1,5 @@
-Test
-Chaminda Weerabaddana
+Name
+Age
+Sex
+DoB
+Facebook profile
