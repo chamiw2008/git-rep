@@ -3,3 +3,5 @@ Age
 Sex
 DoB
 Facebook profile
+
+Removed bug2
